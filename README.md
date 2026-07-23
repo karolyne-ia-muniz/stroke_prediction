@@ -30,7 +30,7 @@ While precision dropped, the trade-off is clinically justified. A lower threshol
 ## 🚀 How to Run
 1. Clone the repository.
 2. Install dependencies: `pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn`
-3. Run the Jupyter Notebook: `jupyter notebook stroke_prediction.ipynb`
+3. Run the Jupyter Notebook: `jupyter notebook 01_stroke_eda.ipynb`
 
 ## 👤 Author
 Karolyne Muniz - https://www.linkedin.com/in/karolyne-muniz
