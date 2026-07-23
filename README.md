@@ -4,7 +4,7 @@
 This project builds a machine learning model to predict the likelihood of a stroke based on patient health metrics. The primary goal was not just high accuracy, but **high Recall**—ensuring the model catches as many actual stroke cases as possible, reflecting real-world healthcare priorities where false negatives are dangerous.
 
 ## 📊 The Data
-- **Source:** [Kaggle Stroke Prediction Dataset] (https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+- **Source:** [Kaggle Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 - **Size:** 5,110 patients, 12 initial features
 - **Key Challenge:** Severe class imbalance (only ~4.8% of patients had a stroke).
 
