@@ -33,4 +33,4 @@ While precision dropped, the trade-off is clinically justified. A lower threshol
 3. Run the Jupyter Notebook: `jupyter notebook stroke_prediction.ipynb`
 
 ## 👤 Author
-Karolyne Muniz - [Link to your LinkedIn/GitHub Profile]
+Karolyne Muniz - https://www.linkedin.com/in/karolyne-muniz
